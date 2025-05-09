@@ -51,7 +51,7 @@ This is the script:
 
 	RAW=/work/mars8180/mkh08049/github_tutorial_desmoscolex_coverM/fastq_raw_reads_289
 	
-	BINS=/work/mars8180/mkh08049/github_tutorial_desmoscolex_coverM/fastq_raw_reads_289/	m84221_250316_084501_s4.2_DS03Desmoscolex.289_289
+	BINS=/work/mars8180/mkh08049/github_tutorial_desmoscolex_coverM/fastq_raw_reads_289/m84221_250316_084501_s4.2_DS03Desmoscolex.289_289
 	
 	FNA_BIN=/home/mkh08049/github_tutorial_desmoscolex_coverM/fna_bin_289
 	mkdir -p "$FNA_BIN"
